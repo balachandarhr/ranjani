@@ -1,0 +1,27 @@
+Ranjani Packaging website - image credits
+=========================================
+
+Company-supplied images
+- assets/img/ranjani-logo*.png/.webp, ranjani-mark.png, favicon/icons: Ranjani Packaging logo (supplied by client)
+- assets/img/ranjani-facility.webp, pallet-box.webp, partitions.webp, layer-pads.webp: supplied by client (webpage content document).
+  ranjani-facility.webp cropped in v4 to remove the camera date stamp and lightly enhanced.
+- assets/img/p-*.webp: generic product studio photos taken from the supplied reference brochure (no third-party branding)
+
+Ranjani product photography (own work, supplied by Ranjani Packaging)
+- ranjani-master-carton.webp, ranjani-master-carton-2.webp, ranjani-printed-carton-front.webp (v3)
+  Real Ranjani-made printed master cartons; background removed (rembg isnet-general-use), composited on a studio
+  backdrop with a ground shadow, colour-corrected and sharpened.
+- ranjani-spnka-studio.webp (v4): Ranjani's first product, a printed master carton for Spnka (Rajavel Fireworks Factory,
+  Sivakasi). Cut out from the client photo, the handler's fingers on the plain top flap retouched out, placed on a studio
+  backdrop with a ground shadow. Box print unchanged.
+- ranjani-spnka-side.webp, ranjani-spnka-front-photo.webp (v4): the same carton at Ranjani's unit; cropped (date stamp removed),
+  exposure / white balance / sharpening adjusted.
+
+Ranjani factory photography (own work, supplied by Ranjani Packaging, v4)
+- ranjani-factory-exterior.webp: unit exterior with kraft paper reels (cropped to remove pole and scrap pile)
+- ranjani-kraft-reels.webp: kraft paper reels in the raw material store
+- ranjani-printed-stock.webp: stacks of printed cartons ready for dispatch
+- ranjani-packing-floor.webp: worker packing printed cartons (cropped to remove floor clutter)
+  All lightly enhanced: exposure, white balance, contrast and sharpening only. No elements added.
+
+Stock photos: none (all stock machine/worker photos used in v2/v3 were replaced with real photos in v4).
