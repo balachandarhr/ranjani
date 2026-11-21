@@ -685,3 +685,12 @@ img[src*="ranjani-packing-floor"]{object-position:0 50%}
 .nav a:not(.btn)::after{background:linear-gradient(90deg,var(--logo-gold),var(--gold))}
 .eyebrow::before{background:linear-gradient(90deg,var(--logo-gold),var(--gold))}
 .btn-gold{background:linear-gradient(100deg,var(--logo-gold),var(--gold),var(--orange));color:var(--navy)}
+
+/* v9: studio shots on a white ground (plain carton, biscuit carton) */
+.pr-media figure.on-white{background:#fff;border:1px solid var(--line)}
+.pr-media figure.on-white img{object-fit:contain;padding:10px}
+/* keep the low-res plain carton at a modest supporting size */
+.pr-media figure.modest{align-self:end}
+.pr-media figure.modest img{max-height:100%;padding:14px}
+.ind-photo.on-white{background:#fff;border-color:rgba(255,255,255,.4)}
+.ind-photo.on-white img{object-fit:contain;background:#fff}

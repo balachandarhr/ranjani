@@ -24,6 +24,15 @@ Ranjani factory photography (own work, supplied by Ranjani Packaging, v4)
 - ranjani-packing-floor.webp: worker packing printed cartons (cropped to remove floor clutter)
   All lightly enhanced: exposure, white balance, contrast and sharpening only. No elements added.
 
+
+Version 9 — client-supplied product photographs (own work, supplied by Ranjani Packaging; not stock)
+- ranjani-plain-carton.webp: a plain brown master carton with blue edge tape, photographed on a white background.
+  The original was a small 500 px JPEG; it was lightly upscaled, sharpened and converted to webp. No other retouching.
+- ranjani-fruit-export.webp: ventilated corrugated export cartons of apples and oranges on a pallet. Box print left unchanged.
+  Light contrast, colour and sharpening only, then converted to webp.
+- ranjani-biscuit-carton.webp: an open plain carton packed with biscuit packets, photographed on a white studio background.
+  Light contrast, colour and sharpening only, then converted to webp.
+
 Stock photos used in versions 2–3 were replaced with real Ranjani photos in v4.
 
 Version 7 stock photographs (free licences; visually similar to typical packaging-product
