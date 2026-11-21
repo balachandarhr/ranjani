@@ -24,7 +24,48 @@ Ranjani factory photography (own work, supplied by Ranjani Packaging, v4)
 - ranjani-packing-floor.webp: worker packing printed cartons (cropped to remove floor clutter)
   All lightly enhanced: exposure, white balance, contrast and sharpening only. No elements added.
 
-Stock photos: none (all stock machine/worker photos used in v2/v3 were replaced with real photos in v4).
+Stock photos used in versions 2–3 were replaced with real Ranjani photos in v4.
+
+Version 7 stock photographs (free licences; visually similar to typical packaging-product
+and application shots, NOT copied from Sillverton Industries, GR Packers or Marudhar Packaging)
+
+Pexels License (free to use, including commercially; photographer credited where known)
+- stock-cartons-stack.webp — stacked kraft cartons. Pexels photo 4246119. Product row (Master Cartons supporting image).
+- stock-carton-sealing.webp — sealing a corrugated carton with tape. Pexels photo 4246120. Infrastructure gallery.
+- stock-kraft-wrap.webp — goods wrapped in kraft paper. Pexels photo 4246185. Home Eco Promise, tips page banner, home tips teaser, gallery.
+- stock-open-carton.webp — open kraft carton on a white background. Pexels photo 4498135, photo by Karolina Grabowska / Kaboompics. Inner Cartons lead image, gallery.
+- stock-warehouse-aisle.webp — warehouse aisle of cartons. Pexels photo 4483610. Logistics industry row, gallery.
+- stock-grocery-aisle.webp — grocery / produce aisle. Pexels photo 3962285. Food & Beverages industry row.
+- stock-fresh-produce.webp — fresh vegetables. Pexels photo 2255935, photo by John Lambeth. Infrastructure gallery (food/grocery applications).
+- stock-dispatch-loading.webp — loading cartons into a van. Pexels photo 6169668. E-commerce & Retail industry row, gallery.
+  Pexels pages: https://www.pexels.com/photo/<id>/
+
+Wikimedia Commons
+- stock-produce-carton.webp — ventilated banana / produce carton. File:Bananenkiste.jpg. Public domain, photograph by Plutho. Agriculture & Horticulture industry row, gallery.
+  https://commons.wikimedia.org/wiki/File:Bananenkiste.jpg
+- stock-mailer-carton.webp — closed folding / e-commerce style carton. File:Buchverpackung geschlossen.jpg. Public domain, HornM201. Inner Cartons, gallery.
+  https://commons.wikimedia.org/wiki/File:Buchverpackung_geschlossen.jpg
+- stock-diecut-blank.webp — flat die-cut folding carton blank. File:Buchverpackung flachliegend.jpg. Public domain, HornM201. Duplex Boxes supporting image, gallery.
+  https://commons.wikimedia.org/wiki/File:Buchverpackung_flachliegend.jpg
+- stock-flute-closeup.webp — corrugated flute close-up. File:Corrugated Cardboard.JPG. CC BY-SA 3.0, Richard Wheeler (Zephyris). Corrugated Sheets, Eco Promise, gallery.
+  https://commons.wikimedia.org/wiki/File:Corrugated_Cardboard.JPG
+- stock-flute-grades.webp — stack of flute grades. File:Cardboard All Flutes.jpg. CC BY-SA 3.0. Quality page.
+  https://commons.wikimedia.org/wiki/File:Cardboard_All_Flutes.jpg
+- stock-kraft-roll.webp — brown kraft paper roll. File:Roll brown paper.jpg. CC BY-SA 4.0, Tangerineduel. About Eco Promise.
+  https://commons.wikimedia.org/wiki/File:Roll_brown_paper.jpg
+- stock-sheet-stack.webp — stacked unassembled cartons / sheets. File:Unassembled banker's boxes.JPG. CC BY-SA 3.0, BrokenSphere. Corrugated Sheets supporting image.
+  https://commons.wikimedia.org/wiki/File:Unassembled_banker%27s_boxes.JPG
+
+Rawpixel, CC0 (public domain)
+- stock-corrugated-roll.webp and stock-corrugated-roll-detail.webp — close-ups of a single-face corrugated roll (no watermark on these files).
+  Used on Corrugated Sheets (lead image), home hero side card, and the infrastructure gallery.
+  Source via Openverse / Rawpixel, title “Paper roll” / corrugated board packaging, CC0.
+
+StockSnap, CC0
+- stock-kraft-tags.webp — kraft tags with twine. Photo by Jess Watters (StockSnap BEFFXYPHRA). About Eco Promise inset.
+  https://stocksnap.io/photo/BEFFXYPHRA
+
+User-supplied Ranjani photographs (Spnka, factory, Rajavel cartons) are unchanged from v4–v6 and remain in their existing placements as lead/hero images.
 
 Version 7 — additional free-licence stock (no competitor photography)
 -------------------------------------------------------------------
