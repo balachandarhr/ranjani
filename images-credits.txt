@@ -32,7 +32,6 @@ and application shots, NOT copied from Sillverton Industries, GR Packers or Maru
 Pexels License (free to use, including commercially; photographer credited where known)
 - stock-cartons-stack.webp — stacked kraft cartons. Pexels photo 4246119. Product row (Master Cartons supporting image).
 - stock-carton-sealing.webp — sealing a corrugated carton with tape. Pexels photo 4246120. Infrastructure gallery.
-- stock-kraft-wrap.webp — goods wrapped in kraft paper. Pexels photo 4246185. Home Eco Promise, tips page banner, home tips teaser, gallery.
 - stock-open-carton.webp — open kraft carton on a white background. Pexels photo 4498135, photo by Karolina Grabowska / Kaboompics. Inner Cartons lead image, gallery.
 - stock-warehouse-aisle.webp — warehouse aisle of cartons. Pexels photo 4483610. Logistics industry row, gallery.
 - stock-grocery-aisle.webp — grocery / produce aisle. Pexels photo 3962285. Food & Beverages industry row.
@@ -55,11 +54,6 @@ Wikimedia Commons
   https://commons.wikimedia.org/wiki/File:Roll_brown_paper.jpg
 - stock-sheet-stack.webp — stacked unassembled cartons / sheets. File:Unassembled banker's boxes.JPG. CC BY-SA 3.0, BrokenSphere. Corrugated Sheets supporting image.
   https://commons.wikimedia.org/wiki/File:Unassembled_banker%27s_boxes.JPG
-
-Rawpixel, CC0 (public domain)
-- stock-corrugated-roll.webp and stock-corrugated-roll-detail.webp — close-ups of a single-face corrugated roll (no watermark on these files).
-  Used on Corrugated Sheets (lead image), home hero side card, and the infrastructure gallery.
-  Source via Openverse / Rawpixel, title “Paper roll” / corrugated board packaging, CC0.
 
 StockSnap, CC0
 - stock-kraft-tags.webp — kraft tags with twine. Photo by Jess Watters (StockSnap BEFFXYPHRA). About Eco Promise inset.
@@ -84,12 +78,10 @@ Pexels License (https://www.pexels.com/license/ — free to use; attribution app
   Used: Master Cartons supporting image; gallery context.
 - stock-carton-sealing.webp — Pexels photo 4246120, sealing a corrugated carton with tape.
   (Downloaded as a candidate; available in assets if needed.)
-- stock-kraft-wrap.webp — Pexels photo 4246185, goods wrapped in kraft paper.
-  Used: home Eco Promise, tips page banner, tips teaser, gallery.
 - stock-open-carton.webp — Pexels photo 4498135, open kraft carton. Photo: Karolina Grabowska / Kaboompics.
   Used: Inner Cartons lead image; gallery.
 - stock-carrying-cartons.webp — Pexels photo 4498126, person carrying stacked cartons. Photo: Karolina Grabowska / Kaboompics.
-  (Available in assets.)
+  Used (v8): home Tips teaser.
 - stock-warehouse-aisle.webp — Pexels photo 4483610, warehouse aisle of cartons.
   Used: Logistics & Distribution industry row; gallery.
 - stock-grocery-aisle.webp — Pexels photo 3962285, grocery / produce aisle.
@@ -127,17 +119,44 @@ Wikimedia Commons
   Used: Corrugated Sheets supporting image.
 - stock-open-floor-carton.webp — File:Cardboard Boxes and their History.jpg, CC BY 2.0 (Creativity103).
   https://commons.wikimedia.org/wiki/File:Cardboard_Boxes_and_their_History.jpg
-  (Available in assets.)
-
-Rawpixel, CC0 (https://www.rawpixel.com — public domain / CC0)
-- stock-corrugated-roll.webp, stock-corrugated-roll-detail.webp — close-ups of a corrugated board roll
-  ("Paper roll" / corrugated board packaging). No watermark on the files used.
-  Used: Corrugated Sheets lead image; home hero side image; gallery.
+  Used (v8): infrastructure gallery (corrugated shipping carton).
 
 StockSnap, CC0 (https://stocksnap.io)
 - stock-desk-pack.webp — photo WP1KHDXGOY, Bench Accounting. https://stocksnap.io/photo/WP1KHDXGOY
-  (Available in assets.)
+  Used (v8): Packaging Tips page banner.
 - stock-kraft-tags.webp — photo BEFFXYPHRA, Jess Watters. https://stocksnap.io/photo/BEFFXYPHRA
   Used: About Eco Promise supporting image.
 - stock-labelled-carton.webp — photo USP4WCYPBW, Matt Bango. https://stocksnap.io/photo/USP4WCYPBW
   (Available in assets.)
+
+Version 8 — replaced the corrugated-roll close-ups and the crumpled kraft-wrap photo
+-------------------------------------------------------------------------------
+Removed from the site (files deleted; credits above withdrawn):
+- stock-corrugated-roll.webp and stock-corrugated-roll-detail.webp (Rawpixel CC0 roll close-ups).
+  They had been used on the home hero “Corrugated Sheets” card, the Sheets product lead, and the gallery.
+- stock-kraft-wrap.webp (Pexels 4246185, hands wrapping a green object in crumpled kraft paper).
+  It had been used on the home Eco Promise, the Tips teaser, the Tips page banner, and the gallery.
+
+New and newly placed photographs (each used in only one slot, except the Sheets product photo
+which is shared by the hero side card and the Sheets lead):
+
+- stock-board-stack.webp — cropped from File:Corrugated cardboard on conveyor.jpg,
+  CC0, Streetsoda. A stack of flat brown corrugated board sheets (fluted edges visible)
+  on a roller conveyor; wall posters in the original were cropped out.
+  https://commons.wikimedia.org/wiki/File:Corrugated_cardboard_on_conveyor.jpg
+  Used: home hero “Corrugated Sheets” side card; Corrugated Sheets product lead.
+
+- stock-flat-sheets.webp — cropped from File:Cardboard Main Flutes.jpg, CC BY-SA 3.0
+  (ruler in the original cropped out). A studio stack of flat corrugated sheets
+  showing 3-ply and other flute edges.
+  https://commons.wikimedia.org/wiki/File:Cardboard_Main_Flutes.jpg
+  Used: infrastructure gallery.
+
+- stock-sheet-edge.webp — File:Corrugated-paper.jpg, CC BY-SA 3.0, Gulsum888.
+  The fluted edge of stacked flat corrugated sheets (not a roll).
+  https://commons.wikimedia.org/wiki/File:Corrugated-paper.jpg
+  Used: home Eco Promise main photograph.
+
+- stock-carrying-cartons.webp — already credited above; now used on the home Tips teaser.
+- stock-desk-pack.webp — already credited above; now used as the Tips page banner.
+- stock-open-floor-carton.webp — already credited above; now used in the gallery.
