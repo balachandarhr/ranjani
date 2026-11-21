@@ -25,3 +25,78 @@ Ranjani factory photography (own work, supplied by Ranjani Packaging, v4)
   All lightly enhanced: exposure, white balance, contrast and sharpening only. No elements added.
 
 Stock photos: none (all stock machine/worker photos used in v2/v3 were replaced with real photos in v4).
+
+Version 7 — additional free-licence stock (no competitor photography)
+-------------------------------------------------------------------
+Reference sites (https://sillvertonindustries.com/customised-food-and-grocery-packaging,
+https://grpackers.in/, https://www.marudharpackaging.com/products.php) were studied only
+for the kinds of product, factory and application photos they show. None of those
+companies' photographs, names, contact details or claims were copied.
+
+All new images below were sourced from Pexels (Pexels License), Wikimedia Commons, Rawpixel (CC0)
+or StockSnap (CC0), checked to be free of third-party branding, converted to WebP under ~200 KB,
+and used as supporting product, industry, eco, banner and gallery photos. Ranjani's own
+photographs (Spnka, factory, Rajavel cartons, kraft reels, packing floor) were left in place.
+
+Pexels License (https://www.pexels.com/license/ — free to use; attribution appreciated)
+- stock-cartons-stack.webp — Pexels photo 4246119, stacked kraft cartons.
+  Used: Master Cartons supporting image; gallery context.
+- stock-carton-sealing.webp — Pexels photo 4246120, sealing a corrugated carton with tape.
+  (Downloaded as a candidate; available in assets if needed.)
+- stock-kraft-wrap.webp — Pexels photo 4246185, goods wrapped in kraft paper.
+  Used: home Eco Promise, tips page banner, tips teaser, gallery.
+- stock-open-carton.webp — Pexels photo 4498135, open kraft carton. Photo: Karolina Grabowska / Kaboompics.
+  Used: Inner Cartons lead image; gallery.
+- stock-carrying-cartons.webp — Pexels photo 4498126, person carrying stacked cartons. Photo: Karolina Grabowska / Kaboompics.
+  (Available in assets.)
+- stock-warehouse-aisle.webp — Pexels photo 4483610, warehouse aisle of cartons.
+  Used: Logistics & Distribution industry row; gallery.
+- stock-grocery-aisle.webp — Pexels photo 3962285, grocery / produce aisle.
+  Used: Food & Beverages industry row.
+- stock-fresh-produce.webp — Pexels photo 2255935, fresh produce. Photo: John Lambeth.
+  (Available in assets.)
+- stock-dispatch-loading.webp — Pexels photo 6169668, loading cartons into a van.
+  Used: E-commerce & Retail industry row.
+  Pexels pages: https://www.pexels.com/photo/<id>/
+
+Wikimedia Commons
+- stock-produce-carton.webp — File:Bananenkiste.jpg, public domain (Plutho).
+  https://commons.wikimedia.org/wiki/File:Bananenkiste.jpg
+  Used: Agriculture & Horticulture industry row; gallery (food/grocery carton).
+- stock-mailer-carton.webp — File:Buchverpackung geschlossen.jpg, public domain (HornM201).
+  https://commons.wikimedia.org/wiki/File:Buchverpackung_geschlossen.jpg
+  Used: Inner Cartons supporting image; gallery (e-commerce style carton).
+- stock-diecut-blank.webp — File:Buchverpackung flachliegend.jpg, public domain (HornM201).
+  https://commons.wikimedia.org/wiki/File:Buchverpackung_flachliegend.jpg
+  Used: Duplex Boxes supporting image; gallery (die-cut folding carton blank).
+- stock-flute-closeup.webp — File:Corrugated_Cardboard.JPG, CC BY-SA 3.0 (Richard Wheeler / Zephyris).
+  https://commons.wikimedia.org/wiki/File:Corrugated_Cardboard.JPG
+  Used: Corrugated Sheets, home Eco Promise, gallery.
+- stock-flute-grades.webp — File:Cardboard All Flutes.jpg, CC BY-SA 3.0.
+  https://commons.wikimedia.org/wiki/File:Cardboard_All_Flutes.jpg
+  Used: Quality page, material grades.
+- stock-flute-section.webp — File:Corrugated fiberboard cross-section 2024-01-02 08-42-59v.jpg, CC BY-SA 4.0 (Aaakhalil).
+  https://commons.wikimedia.org/wiki/File:Corrugated_fiberboard_cross-section_2024-01-02_08-42-59v.jpg
+  (Available in assets.)
+- stock-kraft-roll.webp — File:Roll brown paper.jpg, CC BY-SA 4.0 (Tangerineduel).
+  https://commons.wikimedia.org/wiki/File:Roll_brown_paper.jpg
+  Used: About Eco Promise.
+- stock-sheet-stack.webp — File:Unassembled banker's boxes.JPG, CC BY-SA 3.0 (BrokenSphere).
+  https://commons.wikimedia.org/wiki/File:Unassembled_banker%27s_boxes.JPG
+  Used: Corrugated Sheets supporting image.
+- stock-open-floor-carton.webp — File:Cardboard Boxes and their History.jpg, CC BY 2.0 (Creativity103).
+  https://commons.wikimedia.org/wiki/File:Cardboard_Boxes_and_their_History.jpg
+  (Available in assets.)
+
+Rawpixel, CC0 (https://www.rawpixel.com — public domain / CC0)
+- stock-corrugated-roll.webp, stock-corrugated-roll-detail.webp — close-ups of a corrugated board roll
+  ("Paper roll" / corrugated board packaging). No watermark on the files used.
+  Used: Corrugated Sheets lead image; home hero side image; gallery.
+
+StockSnap, CC0 (https://stocksnap.io)
+- stock-desk-pack.webp — photo WP1KHDXGOY, Bench Accounting. https://stocksnap.io/photo/WP1KHDXGOY
+  (Available in assets.)
+- stock-kraft-tags.webp — photo BEFFXYPHRA, Jess Watters. https://stocksnap.io/photo/BEFFXYPHRA
+  Used: About Eco Promise supporting image.
+- stock-labelled-carton.webp — photo USP4WCYPBW, Matt Bango. https://stocksnap.io/photo/USP4WCYPBW
+  (Available in assets.)
