@@ -694,3 +694,22 @@ img[src*="ranjani-packing-floor"]{object-position:0 50%}
 .pr-media figure.modest img{max-height:100%;padding:14px}
 .ind-photo.on-white{background:#fff;border-color:rgba(255,255,255,.4)}
 .ind-photo.on-white img{object-fit:contain;background:#fff}
+
+/* v10: plant & machinery, raw materials, about plant preview */
+.infra-grid.cols-3{grid-template-columns:repeat(3,1fr)}
+.plant-grid,.raw-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.raw-grid{grid-template-columns:repeat(3,1fr)}
+.plant-card figcaption .ic{width:40px;height:40px;border-radius:10px;display:grid;place-items:center;background:linear-gradient(135deg,var(--c),var(--c2));color:#fff;margin-bottom:12px}
+.plant-card figcaption .ic svg{width:20px;height:20px}
+.about-plant{display:grid;grid-template-columns:1.15fr 1fr 1fr;gap:28px;align-items:center}
+.about-plant figure{margin:0;border-radius:var(--radius);overflow:hidden;background:#fff;box-shadow:var(--shadow-sm)}
+.about-plant figure img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
+.about-plant figcaption{padding:12px 16px 16px;font-size:.88rem;font-weight:600;color:var(--ink)}
+@media (max-width:1100px){
+  .infra-grid.cols-3,.plant-grid,.raw-grid{grid-template-columns:repeat(2,1fr)}
+  .about-plant{grid-template-columns:1fr 1fr}
+  .about-plant > div:first-child{grid-column:1/-1}
+}
+@media (max-width:700px){
+  .infra-grid.cols-3,.plant-grid,.raw-grid,.about-plant{grid-template-columns:1fr}
+}

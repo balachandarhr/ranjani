@@ -33,6 +33,29 @@ Version 9 — client-supplied product photographs (own work, supplied by Ranjani
 - ranjani-biscuit-carton.webp: an open plain carton packed with biscuit packets, photographed on a white studio background.
   Light contrast, colour and sharpening only, then converted to webp.
 
+
+Version 10 — client-supplied factory photography (own work, supplied by Ranjani Packaging; not stock)
+Photographs of the Sattur Road unit: plant and machinery, raw materials and the finished-goods store.
+Each image was gently enhanced (auto-contrast, slight warmth and saturation, light denoise and sharpening)
+and cropped to a consistent 4:3 frame. No elements were added, and no certifications or grade specifications
+were inferred from the photos.
+- ranjani-stitching.webp: shop floor with a KARUNYA stitching machine, workers and carton stacks.
+- ranjani-printed-sheets.webp: stacks of printed duplex and laminated sheets.
+- ranjani-kraft-sheets.webp: a tall stack of kraft and board sheets. A printed ‘Platinum’ board in the
+  original foreground was cropped out of the frame so third-party brand art is not shown.
+- ranjani-finished-store.webp: finished flat corrugated box stacks in the store. The handwritten
+  ‘Swasthick Skandha’ client tag was lightly blurred so the name is not readable.
+- ranjani-biopolymer.webp: woven bags of bio-polymer grades. Supplier name, address, phone and email
+  (Shri Shivam Bio Polymers, Salem) were blurred; the bio-polymer bag look and grade marking were kept.
+- ranjani-printing-machine.webp: printing machine (flexo / rotary).
+- ranjani-slotter.webp: slotter and creaser. Hanging clothes at the top of the original frame were cropped out.
+- ranjani-pasting.webp: pasting and lamination section, with the team handling sheets.
+- ranjani-generator.webp: SilentPower diesel generator for power backup. Scrap at the edges of the
+  original frame was cropped out.
+- ranjani-corrugation.webp: corrugation line with kraft reels and an operator (used on the home teaser).
+- ranjani-corrugation-line.webp: the same corrugation line without the operator (plant card, page hero,
+  About plant preview and gallery).
+
 Stock photos used in versions 2–3 were replaced with real Ranjani photos in v4.
 
 Version 7 stock photographs (free licences; visually similar to typical packaging-product
